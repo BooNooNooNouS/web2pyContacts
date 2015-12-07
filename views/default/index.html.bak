@@ -5,7 +5,7 @@
     <font style="color:red;">
         {{=employee.name}}
     </font><br/>
-    <b>{{=employee.phone}}</b><br/>
+    {{=employee.phone}}<br/>
     {{=employee.email}}<br/>
     Age: {{=employee.age}}<br/>
     <br/>
